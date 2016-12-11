@@ -13,8 +13,8 @@ header {
   border-width:thick;
   background-color: #a39fa0;
   margin-bottom: 10px;
-
 }
+
 #personal {
   float:left;
   margin-right:20px;
@@ -29,8 +29,8 @@ header {
   border-style:solid;
   border-width:10px;
   border-radius:10px;
-
 }
+
 nav {
  text-align: center;
 }
@@ -43,7 +43,7 @@ nav li {
   border-radius: 10px;
   border-width:medium;
   background-color: #c6c2c3;
-  justify-content:center;;
+  justify-content:center;
 }
 
 footer {
