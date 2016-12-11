@@ -36,6 +36,7 @@ nav li {
   border-radius: 10px;
   border-width:medium;
   background-color: #c6c2c3;
+  justify-content:center;;
 }
 
 footer {
