@@ -15,22 +15,21 @@ header {
   margin-bottom: 10px
 
 }
-.personal {
+#personal {
   float:left;
   margin-right:20px;
   border-style:solid;
   border-width:10px;
   border-radius:10px;
 
-}
-
-/*.schools {
+.schools {
+  float:none;
   margin-right:20px;
   border-style:solid;
   border-width:10px;
   border-radius:10px;
 
-}*/
+}
 nav {
  text-align: center;
 }
